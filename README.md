@@ -31,11 +31,17 @@ This project visualizes hospital trial data using Power BI. It offers a comprehe
 - **DAX for calculations**
 - **CSV Hospital Trial Data**
 
-## 📸 Dashboard Preview
+## 🖼️ Dashboard Preview
 
-![Hospital Dashboard Preview](https://via.placeholder.com/900x500.png?text=Dashboard+Preview)
+### 🔹 Home Page
 
-*(You can replace this image link with a screenshot from your dashboard)*
+![Home Page](https://github.com/DataAnalystSachin/Hospital-Dashboard/blob/b9c98ea0685581a8d7bc4a8d3b412c77691063ff/Home.png?raw=true)
+
+### 🔹 Summary Page
+
+![Summary Page](https://github.com/DataAnalystSachin/Hospital-Dashboard/blob/b9c98ea0685581a8d7bc4a8d3b412c77691063ff/Summary.png?raw=true)
+
+> *Images are taken directly from the Power BI dashboard.*
 
 ## 👨‍⚕️ About the Author
 
@@ -45,4 +51,9 @@ This project visualizes hospital trial data using Power BI. It offers a comprehe
 
 ---
 
+## 📌 Repository Structure
 
+
+## ⭐️ Star the Repo
+
+If you found this project helpful, consider giving it a ⭐️ to support the work!
